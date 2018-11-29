@@ -1,2 +1,3 @@
 # hello-world
-A hello-world repository
+
+En este repositorio estoy aprendiendo las bases de GitHub
